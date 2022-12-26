@@ -1,0 +1,15 @@
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\bin\Debug\net6.0\Finale.exe
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\bin\Debug\net6.0\Finale.deps.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\bin\Debug\net6.0\Finale.runtimeconfig.json
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\bin\Debug\net6.0\Finale.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\bin\Debug\net6.0\Finale.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.csproj.AssemblyReference.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.AssemblyInfoInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.AssemblyInfo.cs
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.csproj.CoreCompileInputs.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\refint\Finale.dll
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.pdb
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\Finale.genruntimeconfig.cache
+D:\!Програмирование\GeekBrains\Знакомство_с_языками\Finale\obj\Debug\net6.0\ref\Finale.dll

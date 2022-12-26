@@ -5,7 +5,7 @@
 // Пример:
 // ["hello", "2", "world", ":-)"] -> ["2", ":-)"]
 
-string[] inputArray = {"hello", "2", "world", "", ":-)"}; // Исходный массив
+string[] inputArray = {"hello", "2", "world", ":-)"}; // Исходный массив
 
 string[] resultArray = FindShortInArray(inputArray, 3);
 
@@ -46,7 +46,7 @@ static string[] FindShortInArray(string[] inputArray, int sizeLimit)
             count++;
         }
     }
-    
+
     string[] outputArray = new string[count];
     for (int i = 0; i < count; i++)
     {
